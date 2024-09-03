@@ -10,6 +10,7 @@ namespace Lab8_Pro
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("nihao");
         }
     }
 }
