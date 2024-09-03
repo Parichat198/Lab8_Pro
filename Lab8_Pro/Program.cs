@@ -12,7 +12,7 @@ namespace Lab8_Pro
         {
             Console.WriteLine("nihao");
             int X;
-            Char C;
+            Char S;
         }
     }
 }
